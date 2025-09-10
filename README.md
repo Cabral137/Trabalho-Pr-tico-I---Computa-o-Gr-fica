@@ -1,1 +1,1 @@
-# Trabalho-Pr-tico-I---Computa-o-Gr-fica
+# Trabalho Prático I - Computação Gráfica
