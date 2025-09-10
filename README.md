@@ -54,17 +54,13 @@ Este projeto foi desenvolvido e testado primariamente no sistema operacional **L
 ## Como Compilar e Executar
 
 ```bash
-# 1. Crie uma pasta de build
-mkdir build
-cd build
-
-# 2. Execute o CMake para configurar o projeto
+# 1. Execute o CMake para configurar o projeto
 cmake ..
 
-# 3. Compile o código-fonte com o Make
+# 2. Compile o código-fonte com o Make
 make
 
-# 4. Execute a aplicação
+# 3. Execute a aplicação
 ./TrabalhoCG
 ```
 
