@@ -1,0 +1,5 @@
+/home/victor/Documentos/Gráfica/TP1/ArquivosCMake/CMakeFiles/TrabalhoCG.dir
+/home/victor/Documentos/Gráfica/TP1/ArquivosCMake/CMakeFiles/edit_cache.dir
+/home/victor/Documentos/Gráfica/TP1/ArquivosCMake/CMakeFiles/rebuild_cache.dir
+/home/victor/Documentos/Gráfica/TP1/ArquivosCMake/CMakeFiles/TrabalhoCG_autogen_timestamp_deps.dir
+/home/victor/Documentos/Gráfica/TP1/ArquivosCMake/CMakeFiles/TrabalhoCG_autogen.dir
